@@ -1,0 +1,7 @@
+numpy>=1.24.0
+sgp4>=2.22
+scapy>=2.5.0
+requests>=2.31.0
+click>=8.1.0
+rich>=13.7.0
+pydantic>=2.5.0
